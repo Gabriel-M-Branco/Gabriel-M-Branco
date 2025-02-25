@@ -2,11 +2,11 @@
 
 <div style="flex-basis: 48%;">
   <h3>Contact</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/gabriel-moreira-branco-b4a444187" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="https://www.linkedin.com/in/gabriel-moreira-branco-b4a444187" height="40" alt="linkedin logo" />
   <img width="14" />
-  <img src="/imgs/gmail.png" href="mailto:gabriel01022227@gmail.com" height="40" alt="java logo" />
+  <img src="/imgs/gmail.png" href="mailto:gabriel01022227@gmail.com" height="40" alt="gmail logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" href="mailto:gabriel01022227@hotmail.com" height="40" alt="java logo" />
+  <img src="/imgs/outlook.png" href="mailto:gabriel01022227@hotmail.com" height="40" alt="outlook logo" />
   <img width="14" />
 </div>
           
@@ -16,10 +16,12 @@
   <h3>Programming Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+       
 </div>
 
 <div style="flex-basis: 48%;">
