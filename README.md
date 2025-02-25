@@ -30,6 +30,6 @@
   </div>
 </div>
 <br>
-<div>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-Branco&layout=compact&theme=transparent&hide_border=true)
-</div>
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-Branco&layout=compact&theme=transparent&hide_border=true&count=10)
