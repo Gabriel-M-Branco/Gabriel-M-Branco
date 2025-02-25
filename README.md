@@ -31,5 +31,5 @@
 </div>
 <br>
 <div>
-  <img width:"55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-Branco&layout=compact&theme=transparent&hide_border=true" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-Branco&layout=compact&theme=transparent&hide_border=true)
 </div>
