@@ -21,15 +21,3 @@
     <img align="center" alt="Tailwind Logo" height="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d5/20230715030041%21Tailwind_CSS_Logo.svg" />
   </div>
 </div>
-
-<div>
-  <h3>Tools</h3>
-  <div>
-    <img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="center" alt="Docker" height="40" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
-  </div>
-</div>
-<br>
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-Branco&layout=compact&theme=transparent&hide_border=true&count=10)
